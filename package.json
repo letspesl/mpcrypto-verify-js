@@ -1,0 +1,14 @@
+{
+  "name": "mpcrypto-verify",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "NODE_PATH=. node ./index"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "eosjs-ecc": "^4.0.4"
+  }
+}
