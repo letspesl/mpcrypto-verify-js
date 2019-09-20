@@ -4,6 +4,7 @@
   "description": "",
   "main": "index.js",
   "scripts": {
+    "test": "NODE_PATH=. node ./test",
     "start": "NODE_PATH=. node ./index"
   },
   "author": "",
